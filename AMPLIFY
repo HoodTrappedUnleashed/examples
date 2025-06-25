@@ -1,0 +1,17 @@
+AmplifyApp/
+├── pages/
+│   ├── index.tsx       // Main App Preview
+│   └── _app.tsx        // Global styles + layout
+├── components/
+│   ├── Tabs.tsx        // Navigation across features
+│   ├── StreamingDashboard.tsx
+│   ├── ArtistControlPanel.tsx
+│   ├── SecurityAndProtection.tsx
+│   ├── FutureProofing.tsx
+├── public/
+│   ├── assets/
+│   │   ├── icons/
+│   │   ├── artist-mockup.jpg
+│   │   ├── mobile-preview.png
+├── styles/
+│   └── globals.css
